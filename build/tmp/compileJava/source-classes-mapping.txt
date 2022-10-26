@@ -1,0 +1,33 @@
+com/customer/spring/annotation/ComponentScan.java
+ com.customer.spring.annotation.ComponentScan
+com/customer/spring/config/AppConfig.java
+ com.customer.spring.config.AppConfig
+com/customer/domain/service/OrderService.java
+ com.customer.domain.service.OrderService
+com/customer/spring/annotation/Scope.java
+ com.customer.spring.annotation.Scope
+com/customer/spring/model/InitializingBean.java
+ com.customer.spring.model.InitializingBean
+com/customer/spring/model/BeanPostProcessor.java
+ com.customer.spring.model.BeanPostProcessor
+com/customer/spring/annotation/Component.java
+ com.customer.spring.annotation.Component
+com/customer/spring/annotation/Autowired.java
+ com.customer.spring.annotation.Autowired
+com/customer/spring/annotation/Value.java
+ com.customer.spring.annotation.Value
+com/customer/domain/service/UserServiceI.java
+ com.customer.domain.service.UserServiceI
+com/customer/spring/ApplicationContext.java
+ com.customer.spring.ApplicationContext
+com/customer/spring/model/BeanNameAware.java
+ com.customer.spring.model.BeanNameAware
+com/customer/spring/model/BeanDefinition.java
+ com.customer.spring.model.BeanDefinition
+com/customer/domain/service/CreateProxyBean.java
+ com.customer.domain.service.CreateProxyBean
+ com.customer.domain.service.CreateProxyBean$1
+com/customer/domain/service/UserService.java
+ com.customer.domain.service.UserService
+com/customer/CoustomerSpringTest.java
+ com.customer.CoustomerSpringTest
